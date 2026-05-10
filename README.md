@@ -1,8 +1,8 @@
 # Data Science Portfolio
 
-This repository contains a small collection of data science projects I have worked on during my Master of Data Science.
+This repository contains a small collection of data science projects I have worked on.
 
-The projects cover regression, classification, neural networks, exploratory data analysis, and model evaluation. I have included both notebooks and reports where available so the full analysis process can be reviewed.
+The projects cover regression, classification, neural networks, exploratory data analysis and model evaluation. I have included both notebooks and reports where available so the full analysis process can be reviewed.
 
 ## Projects
 
@@ -47,4 +47,4 @@ Folder: [covid-economic-analysis](https://github.com/fishdynasty/Data-Science-Po
 
 ## Notes
 
-These projects are mainly intended to show my data analysis workflow, including how I approach cleaning, exploration, modelling, and communicating results.
+These projects are mainly intended to show my data analysis workflow, including how I approach cleaning, exploration, modelling and communicating results.
