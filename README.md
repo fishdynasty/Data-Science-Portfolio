@@ -18,7 +18,7 @@ Main techniques used:
 - XGBoost
 - Model comparison using error metrics
 
-Folder: [nrl-play-the-ball-speed](([./nrl-play-the-ball-speed](https://github.com/fishdynasty/Data-Science-Portfolio/tree/main/nrl-play-the-ball-speed)
+Folder: [nrl-play-the-ball-speed](https://github.com/fishdynasty/Data-Science-Portfolio/tree/main/nrl-play-the-ball-speed)
 
 ### 2. Abalone Age Classification
 
