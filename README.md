@@ -31,7 +31,7 @@ Main techniques used:
 - Hyperparameter testing
 - Confusion matrix and ROC-AUC evaluation
 
-Folder: `abalone-age-classification`
+Folder: [abalone-age-classification](https://github.com/fishdynasty/Data-Science-Portfolio/tree/main/abalone-age-classification)
 
 ### 3. COVID Economic Analysis
 
@@ -43,7 +43,7 @@ Main techniques used:
 - Data visualisation
 - Trend analysis
 
-Folder: `covid-economic-analysis`
+Folder: [covid-economic-analysis](https://github.com/fishdynasty/Data-Science-Portfolio/tree/main/covid-economic-analysis)
 
 ## Notes
 
